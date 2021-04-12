@@ -2,7 +2,6 @@
  Final project for CS110 course For first year at University of Toronto. Group Project with main.py, plotting_data.py and report_generation.py files written by Me. My role in the project was to use the linear-regression functions created by my groupmates in the main.py file to generate a graph using plotly and create a pdf report which includes the plot and whether or not the Carbon Tax policy has had any affect in changing the country's CO2 emission. The report (written by my teammates) is added below.
 
 =========================================
-=========================================
  Problem Description and Research Question {#problem-description-and-research-question .unnumbered}
 =========================================
 
